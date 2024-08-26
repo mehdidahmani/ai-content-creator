@@ -18,8 +18,8 @@ This script automates the creation of TikTok videos by transforming a list of pl
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/tiktok-content-creator.git
-    cd tiktok-content-creator
+    git clone https://github.com/yourusername/ai-content-creator.git
+    cd ai-content-creator
     ```
 2. Install the required Python packages:
     ```bash
@@ -37,7 +37,7 @@ This script automates the creation of TikTok videos by transforming a list of pl
 1. Prepare your list of dad jokes in the text file (`container/rawData.txt`), with one joke per line.
 2. Run the script:
     ```bash
-    python tiktok_creator.py
+    python main.py
     ```
 3. The script will generate TikTok videos with the jokes and save them to the output directory.
 
