@@ -18,7 +18,7 @@ This script automates the creation of TikTok videos by transforming a list of pl
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/ai-content-creator.git
+    git clone https://github.com/mehdidahmani/ai-content-creator.git
     cd ai-content-creator
     ```
 2. Install the required Python packages:
