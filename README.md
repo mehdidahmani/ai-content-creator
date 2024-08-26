@@ -29,7 +29,7 @@ This script automates the creation of TikTok videos by transforming a list of pl
 3. Set up Selenium by downloading the appropriate WebDriver for your browser (e.g., ChromeDriver for Google Chrome).
 
 ## Important Notes
-- **API Key**: Make sure to update the Eleven Labs API key in the script (`tiktok_creator.py`) with your own key to enable AI voice generation.
+- **API Key**: Make sure to update the Eleven Labs API key in the script (`main.py`) with your own key to enable AI voice generation.
 - **ChromeDriver Compatibility**: Ensure that the ChromeDriver version matches the version of Google Chrome installed on your system. You can download the correct version from [here](https://sites.google.com/chromium.org/driver/).
 - **Customizing the outro**:After generating the raw videos the script will add the outro at the end of each generated video ,feel free to custimize your outro in (`container/outro.mp4`)
 
