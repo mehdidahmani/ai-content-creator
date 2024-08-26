@@ -1,5 +1,8 @@
 # TikTok Content Creator Script
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 ## Overview
 This script automates the creation of TikTok videos by transforming a list of plain text dad jokes into animated videos with AI-generated voiceovers. It utilizes MoviePy for video editing and Selenium for automation, streamlining the entire content creation process.
 
